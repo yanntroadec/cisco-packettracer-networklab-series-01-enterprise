@@ -43,7 +43,7 @@ Access Layer Switches:
 │                     │   │                      │   │                       │
 │  Fa0/1: Trunk       │   │  Fa0/1: Trunk        │   │  Fa0/1: Trunk         │
 │  Fa0/2: AP-IT       │   │  Fa0/2: AP-CORP      │   │  Fa0/2: AP-HR-ACC     │
-│  Fa0/3-X: IT Users  │   │  Fa0/3-X: Corp Users │   │ Fa0/3-X: HR/Acc Users│
+│  Fa0/3-X: IT Users  │   │  Fa0/3-X: Corp Users │   │ Fa0/3-X: HR/Acc Users │
 └─────────────────────┘   └──────────────────────┘   └───────────────────────┘
 ```
 
