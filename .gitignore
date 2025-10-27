@@ -1,0 +1,12 @@
+# Packet Tracer backup files
+*.bak
+*.pkz~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
